@@ -1,0 +1,2 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+No, no puedo ver el archivo porque esta en otra rama.
